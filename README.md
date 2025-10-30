@@ -375,9 +375,9 @@ These repositories offer broader collections of resources that may overlap with 
 
 ```bibtex
 @article{xu2025kdp,
-  title   = {A Knowledge-Driven Diffusion Policy for End-to-End Autonomous Driving Based on Expert Routing},
-  author  = {Xu, Chengkai and Liu, Jiaqi and Guo, Yicheng and Hang, Peng and Sun, Jian},
-  journal = {arXiv preprint arXiv:2509.04853},
+  title   = {End-to-End Autonomous Driving Systems: A Survey of Training Methods and Ecosystems},
+  author  = {**},
+  journal = {**},
   year    = {2025}
 }
 ```
