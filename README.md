@@ -1,4 +1,15 @@
-# End-to-End Autonomous Driving Systems: A Survey of Training Methods and Ecosystems
+<h1 align="center">
+  <strong>A Survey on End-to-End Autonomous Driving Training from the Perspectives of Data, Strategy, and Platform</strong>
+</h1>
+
+<div align="center">
+
+[![TechRxiv](https://img.shields.io/badge/TechRxiv-Preprint-0b5fff.svg)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176523171.14650662)
+[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/Jiaaqiliu/Awesome-Training-Ecosystem-for-E2E-AD/pulls)
+[![GitHub star chart](https://img.shields.io/github/stars/Jiaaqiliu/Awesome-Training-Ecosystem-for-E2E-AD?style=social)](https://star-history.com/#Jiaaqiliu/Awesome-Training-Ecosystem-for-E2E-AD)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
+
+</div>
 
 Welcome to this curated collection of papers on **End-to-End Autonomous Driving (E2E-AD)**, aimed at researchers, engineers, and enthusiasts in the field of autonomous driving systems. This repository provides a comprehensive selection of papers, focusing primarily on the training methods and ecosystems that drive the development of intelligent autonomous vehicles.
 
@@ -373,14 +384,16 @@ These repositories offer broader collections of resources that may overlap with 
 
 ### **Citation**
 
+If you find this repository helpful, a citation to our paper would be greatly appreciated:
+
 ```bibtex
-@article{xu2025kdp,
-  title   = {End-to-End Autonomous Driving Systems: A Survey of Training Methods and Ecosystems},
-  author  = {**},
-  journal = {**},
-  year    = {2025}
+@article{xu2025survey,
+  title={A Survey on End-to-End Autonomous Driving Training from the Perspectives of Data, Strategy, and Platform},
+  author={Xu, Chengkai and Cui, Yiming and Liu, Jiaqi and Qin, Cheng and Zhang, Geyuan and Dong, Xinwei and Fang, Shiyu and Guo, Yicheng and Hang, Peng and Sun, Jian},
+  journal={Authorea Preprints},
+  year={2025},
+  publisher={Authorea}
 }
-```
 
 
 
