@@ -200,6 +200,7 @@ Feel free to explore the papers, contribute, and stay updated with the latest tr
 
 | Title                                                        | Abstract                                       | Year       | Project                                                      |
 | ------------------------------------------------------------ | ---------------------------------------------- | ---------- | ------------------------------------------------------------ |
+| [WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving](https://arxiv.org/abs/2512.06112) | <details><summary>Details</summary> </details> | Arxiv 2025 |  [code](https://github.com/fudan-generative-vision/WAM-Flow)        |
 | [Diffusiondrive: Truncated diffusion model for end-to-end autonomous driving](http://openaccess.thecvf.com/content/CVPR2025/html/Liao_DiffusionDrive_Truncated_Diffusion_Model_for_End-to-End_Autonomous_Driving_CVPR_2025_paper.html) | <details><summary>Details</summary> </details> | CVPR  2025 | [Code](https://github.com/hustvl/DiffusionDrive)             |
 | [Diffvla: Vision-language guided diffusion planning for autonomous driving](https://arxiv.org/abs/2505.19381) | <details><summary>Details</summary> </details> | Arxiv 2025 |                                                              |
 | [DiffAD: A Unified Diffusion Modeling Approach for Autonomous Driving](https://arxiv.org/abs/2503.12170) | <details><summary>Details</summary> </details> | Arxiv 2025 |                                                              |
