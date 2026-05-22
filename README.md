@@ -37,18 +37,20 @@ Each paper in this repository has been selected for its relevance and contributi
     <td>Repository updated with the latest E2E-AD training ecosystem papers and resources.</td>
   </tr>
 </table>
-
 </div>
 
-<p align="center">
-  <strong>Last updated:</strong> 2026.05.22
-</p>
 
 ---
 
-#### Contributions are welcome! Please feel free to submit pull requests or reach out via email to add papers!
+<div align="center">
 
-Feel free to explore the papers, contribute, and stay updated with the latest trends in this exciting and rapidly advancing field! If you find this repository useful, please consider citing and STARing this list ⭐. Feel free to share this list with others!
+### 🤝 Contributions Are Welcome
+
+We warmly welcome pull requests and suggestions for adding new papers, benchmarks, datasets, and useful resources.
+
+If you find this repository helpful, please consider **citing our survey**, **starring this repository ⭐**, and sharing it with the community.
+
+</div>
 
 ---
 
