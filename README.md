@@ -23,6 +23,29 @@ Each paper in this repository has been selected for its relevance and contributi
 
 ---
 
+## 📰 News
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><strong>🎉 2026.05.20</strong></td>
+    <td>Our survey was accepted by <strong>IEEE Transactions on Intelligent Transportation Systems (TITS)</strong>.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔄 2026.05.22</strong></td>
+    <td>Repository updated with the latest E2E-AD training ecosystem papers and resources.</td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">
+  <strong>Last updated:</strong> 2026.05.22
+</p>
+
+---
+
 #### Contributions are welcome! Please feel free to submit pull requests or reach out via email to add papers!
 
 Feel free to explore the papers, contribute, and stay updated with the latest trends in this exciting and rapidly advancing field! If you find this repository useful, please consider citing and STARing this list ⭐. Feel free to share this list with others!
