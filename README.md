@@ -539,11 +539,15 @@ These repositories offer broader collections of resources that may overlap with 
 If you find this repository helpful, a citation to our paper would be greatly appreciated:
 
 ```bibtex
-@article{xu2025survey,
-  title={A Survey on End-to-End Autonomous Driving Training from the Perspectives of Data, Strategy, and Platform},
-  author={Xu, Chengkai and Cui, Yiming and Liu, Jiaqi and Qin, Cheng and Zhang, Geyuan and Dong, Xinwei and Fang, Shiyu and Guo, Yicheng and Hang, Peng and Sun, Jian},
-  journal={Authorea Preprints},
-  year={2025},
-  publisher={Authorea}
+@ARTICLE{xu2026survey,
+  author={Xu, Chengkai and Cui, Yiming and Liu, Jiaqi and Guo, Yicheng and Qin, Cheng and Zhang, Geyuan and Dong, Xinwei and Fang, Shiyu and Hang, Peng and Sun, Jian},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={A Survey on End-to-End Autonomous Driving Training From the Perspectives of Data, Strategy, and Platform}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-20},
+  keywords={Modeling;Training;Optimization;Autonomous driving;Safety;Surveys;Vehicles;Testing;Learning (artificial intelligence);Reinforcement learning;Autonomous vehicle;end-to-end;artificial intelligence;intelligent transportation system},
+  doi={10.1109/TITS.2026.3695999}
 }
 ```
